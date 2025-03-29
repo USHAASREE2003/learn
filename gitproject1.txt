@@ -1,3 +1,5 @@
 Hello world !!!
 What have you decided ??? 
 Not yet ???
+take input from user 
+print the values 
